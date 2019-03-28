@@ -6,6 +6,7 @@ Un modèle de machine learning se construit à travers un entrainement sur une j
 
 L'objectif de ce notebook est de nettoyer ce datastet pour rendre intelligible tous les renseignements cachés dans celui ci et obtenir la meilleur performance du modele de ML associé
 
-
-NB : POUR LIRE LE NOTEBOOK ..
+IMPORTANT :
+|    |
+NB : POUR LIRE LE NOTEBOOK Nettoyage Dataset Titanic pour ML_ennonce.ipynb :
 ==> https://nbviewer.jupyter.org/github/Alain-Ahebie/Titanic/blob/master/Nettoyage%20Dataset%20Titanic%20pour%20ML_ennonce.ipynb
